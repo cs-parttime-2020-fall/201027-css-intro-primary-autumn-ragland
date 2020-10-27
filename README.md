@@ -1,8 +1,5 @@
 # 20-10-27 CSS Intro Primary
 
-### Assignment
-Create a CSS file and style the provided HTML file to look like wireframe image provided using only the tags/class/ids already available in the provided HTML file. You will need to link the newly created CSS file to the HTMl file provided.
-
 ### Set Up
 1. copy the assignment git url in github after accepting the assignment
 1. clone the assignment in the `html-css-basics` directory using `git clone COPIED URL`
@@ -12,10 +9,10 @@ Create a CSS file and style the provided HTML file to look like wireframe image 
 ### Linking files
 1. create a new css file called `style.css`
 2. link the css file to the html file using the `link` tag in the `head` - set the `rel` attribute to `stylesheet` and the `href` attribute to the css file path
-```html
- <link rel="stylesheet" href="style.css">
-```
 3. check that the files are linked by setting the `background-color` property of the body to any color other than white/gray and refreshing the page
+
+### Assignment
+Style the provided HTML file to look like wireframe image provided using only the tags/class/ids already available in the provided HTML file. 
 
 ### Push File Changes in the Terminal
 1. `git status` : check if file changes have been made
